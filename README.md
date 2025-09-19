@@ -24,3 +24,7 @@ Sala: Laboratório de Geoprocessamento
 
 - Aula 4: [Slides](https://www.canva.com/design/DAGynz8zkcM/GG5h19i0Ilr8nCwNKNfyDA/edit?utm_content=DAGynz8zkcM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - script 1: [Prática: Dados de Temperatura por Sensoriamento Remoto](https://colab.research.google.com/drive/1LXCHdXZ5xZrTj_aF1pcvoMr2CTEX2yVH?usp=sharing)
+
+- Aula 5: Continuidade da prática (script 1).
+  - Estudo Dirigido 01: [Artigo]();
+  - [Questões]().
