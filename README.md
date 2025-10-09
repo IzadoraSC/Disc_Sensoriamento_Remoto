@@ -28,3 +28,10 @@ Sala: Laboratório de Geoprocessamento
 - Aula 5: Continuidade da prática (script 1).
   - Estudo Dirigido 01: [Artigo]();
   - [Questões]().
+
+- Aula 6: [Slides](https://www.canva.com/design/DAGzX--zqlc/nOntol9DkinlCW2lvxwp6Q/edit?utm_content=DAGzX--zqlc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+- Aula 03/10/2025: AVALIAÇÃO
+  
+- Aula 7: [Slides]()
+  - Script 1: [Visualização de Imagens de Satélites Meteorológicos]()
