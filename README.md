@@ -33,5 +33,5 @@ Sala: Laboratório de Geoprocessamento
 
 - Aula 03/10/2025: AVALIAÇÃO
   
-- Aula 7: [Slides]()
-  - Script 1: [Visualização de Imagens de Satélites Meteorológicos]()
+- Aula 7: [Slides](https://www.canva.com/design/DAG0E6i5dAc/HEKRUdQ-G9Yv4HagkyCs5Q/edit?utm_content=DAG0E6i5dAc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  - Script 1: [Imagens de Satélites Meteorológicos](https://colab.research.google.com/drive/1BJ6iuMVqAB74ixnwAN6FN5T9gsnHczGy?usp=sharing)
