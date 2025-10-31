@@ -36,5 +36,13 @@ Sala: Laboratório de Geoprocessamento
 - Aula 7: [Slides](https://www.canva.com/design/DAG0E6i5dAc/HEKRUdQ-G9Yv4HagkyCs5Q/edit?utm_content=DAG0E6i5dAc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - Script 1: [Imagens de Satélites Meteorológicos](https://colab.research.google.com/drive/1BJ6iuMVqAB74ixnwAN6FN5T9gsnHczGy?usp=sharing)
     
-- Aula 8: [Slides](https://www.canva.com/design/DAG3VBsz5kY/wngoclX0xurmq9OPu_WVZg/edit?utm_content=DAG3VBsz5kY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Aula 8 (31/10/2025): [Slides](https://www.canva.com/design/DAG3VBsz5kY/wngoclX0xurmq9OPu_WVZg/edit?utm_content=DAG3VBsz5kY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - Esudo Dirigido 02 / Artigo: [Link](https://drive.google.com/drive/folders/1YbDXGmkix4GQ61jTuo1Xw4rvyunwvWm2?usp=sharing)
+ 
+- Aula 9 e 10 (07/11/2025): [INSERIR]()
+  - Estudos de Caso: [INSERIR]()
+  - Guia: [INSERIR]()
+  - Script - Estudos De Caso: [INSERIR]()
+  - Projeto Final (3 Nota)
+
+
