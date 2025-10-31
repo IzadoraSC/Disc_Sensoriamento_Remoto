@@ -35,3 +35,6 @@ Sala: Laboratório de Geoprocessamento
   
 - Aula 7: [Slides](https://www.canva.com/design/DAG0E6i5dAc/HEKRUdQ-G9Yv4HagkyCs5Q/edit?utm_content=DAG0E6i5dAc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   - Script 1: [Imagens de Satélites Meteorológicos](https://colab.research.google.com/drive/1BJ6iuMVqAB74ixnwAN6FN5T9gsnHczGy?usp=sharing)
+    
+- Aula 8: [Slides](https://www.canva.com/design/DAG3VBsz5kY/wngoclX0xurmq9OPu_WVZg/edit)
+  - Esudo Dirigido 02 / Artigo: [Link](https://drive.google.com/drive/folders/1YbDXGmkix4GQ61jTuo1Xw4rvyunwvWm2?usp=sharing)
