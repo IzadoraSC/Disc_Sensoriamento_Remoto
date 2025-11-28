@@ -47,6 +47,6 @@ Sala: Laboratório de Geoprocessamento
 
 - Aula 28/11/2025
   - Guia para desenvolvimento da atividade prática avaliativa: [Link](https://drive.google.com/drive/folders/16xEou2aGNfxUJa6FIm8MRjlXP1sSDWe9?usp=drive_link)
-  - Prática 01: (Link)[https://drive.google.com/drive/folders/16xEou2aGNfxUJa6FIm8MRjlXP1sSDWe9?usp=drive_link] 
+  - Prática 01: [Link](https://drive.google.com/drive/folders/16xEou2aGNfxUJa6FIm8MRjlXP1sSDWe9?usp=drive_link)
 
 
