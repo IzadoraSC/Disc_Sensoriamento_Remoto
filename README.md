@@ -26,8 +26,8 @@ Sala: Laboratório de Geoprocessamento
   - script 1: [Prática: Dados de Temperatura por Sensoriamento Remoto](https://colab.research.google.com/drive/1LXCHdXZ5xZrTj_aF1pcvoMr2CTEX2yVH?usp=sharing)
 
 - Aula 5: Continuidade da prática (script 1).
-  - Estudo Dirigido 01: [Artigo]();
-  - [Questões]().
+  - Estudo Dirigido 01: [Artigo](https://drive.google.com/drive/folders/1_jch5XfyUZcpSvyrqwLLE0FWhqp_7bNB?usp=drive_link);
+  - [Questões](https://drive.google.com/drive/folders/1_jch5XfyUZcpSvyrqwLLE0FWhqp_7bNB?usp=drive_link).
 
 - Aula 6: [Slides](https://www.canva.com/design/DAGzX--zqlc/nOntol9DkinlCW2lvxwp6Q/edit?utm_content=DAGzX--zqlc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
@@ -44,5 +44,9 @@ Sala: Laboratório de Geoprocessamento
   - Guia: [INSERIR]()
   - Script - Estudos De Caso: [INSERIR]()
   - Projeto Final (3 Nota)
+
+- Aula 28/11/2025
+  - Guia para desenvolvimento da atividade prática avaliativa: [Link](https://drive.google.com/drive/folders/16xEou2aGNfxUJa6FIm8MRjlXP1sSDWe9?usp=drive_link)
+  - Prática 01: (Link)[https://drive.google.com/drive/folders/16xEou2aGNfxUJa6FIm8MRjlXP1sSDWe9?usp=drive_link] 
 
 
